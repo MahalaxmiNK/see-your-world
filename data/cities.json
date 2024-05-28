@@ -37,28 +37,40 @@
       "id": 98443197
     },
     {
-      "cityName": "Faro",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930388
-    },
-    {
-      "cityName": "Barcelona",
+      "cityName": "Carrascal del Obispo",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2024-05-28T14:49:24.140Z",
+      "notes": "yaay",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "40.74725696280421",
+        "lng": "-5.9326171875"
       },
-      "id": 17806752
+      "id": 98443198
+    },
+    {
+      "cityName": "Benavides",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-28T14:58:57.710Z",
+      "notes": "yaay",
+      "position": {
+        "lat": "42.53689200787317",
+        "lng": "-5.910644531250001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Mirandela",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-28T15:00:54.081Z",
+      "notes": "yess",
+      "position": {
+        "lat": "41.541477666790286",
+        "lng": "-7.185058593750001"
+      },
+      "id": 98443200
     }
   ]
 }
